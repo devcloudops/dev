@@ -100,7 +100,7 @@
                     "runOutputName": "<runOutputName>",
                     "artifactTags": {
                         "source": "azureVmImageBuilder",
-                        "baseosimg": "windows10"
+                        "baseosimg": "windows10Pro"
                     },
                     "replicationRegions": [
                       "<region1>",
