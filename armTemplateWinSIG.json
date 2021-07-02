@@ -41,7 +41,7 @@
 
             "vmProfile": 
                     {
-                    "vmSize": "Standard_NV12s_v3",
+                    "vmSize": "Standard_F4s_v2",
                     "osDiskSizeGB": 127
                     },
         
